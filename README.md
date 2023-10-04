@@ -10,3 +10,5 @@ Frequency (F): Frequency assesses how often a customer engages with your busines
 Monetary Value (M): This component reflects the monetary value of a customer's transactions. It can be based on the total spending, average order value, or other financial metrics. Customers with a higher monetary value are often more valuable to your business.
 
 *All the notes were written in Chinese, any suggestion is welcome I'm still learning XD*
+
+**The "Online Retail Clean" file is too big to upload but I uploaded the original uncleaned file and the code for data cleaning.**
